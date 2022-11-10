@@ -1,2 +1,6 @@
 #John has made changes
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
+<<<<<<< HEAD
+=======
+#mary has made some changes
+>>>>>>> 2e4ac93 (Added my project)
