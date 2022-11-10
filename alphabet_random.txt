@@ -1,10 +1,2 @@
 #johns contribution
 akjfhaaslkdjfhaslkdhfas
-
-<<<<<<< HEAD
-#John part2
-asldkjfhalksdhjfaksdhjfakhsjdflkajhsdfkashjdf
-=======
-#Marys contributions
-askdjfhaklshdfkahsdfkahsdfk
->>>>>>> 2ddf2d9 (Adding marys 1st line)
