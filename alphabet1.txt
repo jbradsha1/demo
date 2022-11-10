@@ -1,2 +1,6 @@
 #John... ABCD
+<<<<<<< HEAD
 #John2... ABCD
+=======
+#Mary.. abcd
+>>>>>>> f8f0721 (Mary adding line)
